@@ -19,10 +19,9 @@ The repository is organized as follows:
 
 
 -   **`README.md`**: This file, providing an overview and instructions.
--   **`requirements.txt`**: A list of all Python dependencies required to run the code.
 -   **`src/`**: A directory containing all the source code for the solutions.
-    -   **`q1_pinn_cardiac_activation.py`**: Solution for Question 1 (PINN).
-    -   **`q2_neural_ode.py`**: Solution for Question 2 (Neural ODE).
+    -   **`pinns_ea.ipynb`**: Solution for Question 1 (PINN).
+    -   **`node_ea.ipynb`**: Solution for Question 2 (Neural ODE).
 
 ---
 
